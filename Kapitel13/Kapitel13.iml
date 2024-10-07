@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter-komplett" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-1-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-1-4-5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-1-4-5-copy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-1-6-7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-1-8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-1a" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-3-Anonym" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-3-Anonym-Lambda" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-4-Border" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-4-Box" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-4-Flow" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter0-4-Grid" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter1-0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter2-0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter3-0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bildbetrachter4-0" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Layouts" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Musikplayer" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="jl1.0.6" level="project" />
+    <orderEntry type="library" name="jl1.0.7" level="project" />
+    <orderEntry type="library" name="jl1.0.4" level="project" />
+    <orderEntry type="library" name="jl1.0.8" level="project" />
+    <orderEntry type="library" name="jl1.0.1" level="project" />
+    <orderEntry type="library" name="jl1.0.5" level="project" />
+    <orderEntry type="library" name="jl1.0.3" level="project" />
+    <orderEntry type="module" module-name="JLayer1.0.1" />
+  </component>
+</module>

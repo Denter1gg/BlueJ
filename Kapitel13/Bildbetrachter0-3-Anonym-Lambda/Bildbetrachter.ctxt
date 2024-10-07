@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bildbetrachter
+comment1.params=
+comment1.target=Bildbetrachter()
+comment2.params=
+comment2.target=void\ dateiOeffnen()
+comment3.params=
+comment3.target=void\ beenden()
+comment4.params=
+comment4.target=void\ info()
+comment5.params=
+comment5.target=void\ speichern()
+comment6.params=
+comment6.target=void\ fensterErzeugen()
+comment7.params=fenster
+comment7.target=void\ menuezeileErzeugen(javax.swing.JFrame)
+numComments=8

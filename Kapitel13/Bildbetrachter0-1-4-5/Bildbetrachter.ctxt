@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bildbetrachter
+comment1.params=
+comment1.target=Bildbetrachter()
+comment2.params=
+comment2.target=void\ fensterErzeugen()
+comment3.params=
+comment3.target=void\ menuezeileErzeugen()
+numComments=4
