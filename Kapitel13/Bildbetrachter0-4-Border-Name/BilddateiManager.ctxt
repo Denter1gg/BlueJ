@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BilddateiManager
+comment1.params=
+comment1.target=Farbbild\ gibBild()
+comment2.params=
+comment2.target=java.lang.String\ getPath()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=bilddatei
+comment4.target=Farbbild\ ladeBild(java.io.File)
+comment5.params=bild\ datei
+comment5.target=void\ speichereBild(Farbbild,\ java.io.File)
+numComments=6
